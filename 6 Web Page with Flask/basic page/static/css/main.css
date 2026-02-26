@@ -41,10 +41,10 @@ header h1.logo:hover {
 
 div.home {
   padding: 10px 0 30px 0;
-  background-color: rgb(21, 252, 11);
-  -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
+  background-color: rgb(11, 184, 252);
+  -webkit-border-radius: 8px;
+     -moz-border-radius: 8px;
+          border-radius: 8px;
 }
 
 div.about {
